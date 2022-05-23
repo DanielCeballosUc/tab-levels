@@ -1,0 +1,50 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Tab 1x",
+        "command": "tab-levels:tab1x"
+      },
+      {
+        "label": "Tab 2x",
+        "command": "tab-levels:tab2x"
+      },
+      {
+        "label": "Tab 3x",
+        "command": "tab-levels:tab3x"
+      },
+      {
+        "label": "Tab 4x",
+        "command": "tab-levels:tab4x"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "tab-levels",
+          "submenu": [
+            {
+              "label": "Tab 1x",
+              "command": "tab-levels:tab1x"
+            },
+            {
+              "label": "Tab 2x",
+              "command": "tab-levels:tab2x"
+            },
+            {
+              "label": "Tab 3x",
+              "command": "tab-levels:tab3x"
+            },
+            {
+              "label": "Tab 4x",
+              "command": "tab-levels:tab4x"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
