@@ -1,9 +1,13 @@
 {
   "name": "tab-levels",
   "main": "./lib/tab-levels",
-  "version": "0.2.0",
+  "version": "0.0.0",
   "description": "Clear all the tabs in the selection and add a tab indentation to the begining of the selection",
-  "keywords": [],
+  "keywords": [
+    "tab",
+    "indentation",
+    "indentation level"
+  ],
   "repository": "https://github.com/DanielCeballosUc/tab-levels.git",
   "license": "MIT",
   "engines": {
